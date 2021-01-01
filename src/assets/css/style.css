@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-lime {
+  background: #a5fd6d;
+}
+
+.bg-lightblue {
+  background: #3b5cf8;
+}
